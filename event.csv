@@ -1,0 +1,32 @@
+Simulation Process Information
+Type,Start Time,Customer,Server Status,Queue Size
+arrival,1.71741,1,IDLE,0
+service,1.71741,1,BUSY,0
+arrival,2.39789,2,BUSY,0
+departure,3.44985,1,IDLE,1
+service,3.44985,2,BUSY,0
+arrival,3.76511,3,BUSY,0
+departure,4.83122,2,IDLE,1
+service,4.83122,3,BUSY,0
+arrival,5.00971,4,BUSY,0
+arrival,5.98907,5,BUSY,1
+arrival,7.88232,6,BUSY,2
+departure,8.30138,3,IDLE,3
+service,8.30138,4,BUSY,2
+departure,9.03169,4,IDLE,2
+service,9.03169,5,BUSY,1
+arrival,9.76716,7,BUSY,1
+arrival,11.2575,8,BUSY,2
+departure,12.1751,5,IDLE,3
+service,12.1751,6,BUSY,2
+departure,12.6036,6,IDLE,2
+service,12.6036,7,BUSY,1
+arrival,12.6104,9,BUSY,1
+departure,13.3865,7,IDLE,2
+service,13.3865,8,BUSY,1
+arrival,13.4425,10,BUSY,1
+departure,14.8306,8,IDLE,2
+service,14.8306,9,BUSY,1
+departure,15.5189,9,IDLE,1
+service,15.5189,10,BUSY,0
+departure,17.0437,10,IDLE,0
